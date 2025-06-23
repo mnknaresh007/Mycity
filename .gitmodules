@@ -1,0 +1,3 @@
+[submodule "MyBulding"]
+	path = MyBulding
+	url = https://github.com/mnknaresh007/MyBulding.git
